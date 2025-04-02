@@ -18,7 +18,7 @@
           $sum:1 // here 1 means count and add 1 (i.e count++) 
         },
       },
-    },
+    }
   ]
 
   //3.3 sort the group in descending order
